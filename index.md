@@ -7,5 +7,5 @@ und noch mal Frodo, Gandalf, Sam, Elben
 
 ## Details zu Frodo
 * frodo ist klein
-* frodo hat gro?e Füsse
+* frodo hat gro?e Fuesse
 * frodo kommt aus dem Auenland
