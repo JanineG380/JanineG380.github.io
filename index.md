@@ -13,3 +13,8 @@ und noch mal Frodo, Gandalf, Sam, Elben
 Frodo said:
 > Ich wuenschte, ich haette den Ring nie bekommen.
 > Ich wuenschte, all das waere nie passiert.
+
+<img src="https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_960_720.jpg"/>
+
+
+
