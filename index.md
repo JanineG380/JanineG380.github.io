@@ -11,5 +11,5 @@ und noch mal Frodo, Gandalf, Sam, Elben
 * frodo kommt aus dem Auenland
 
 Frodo said:
-> Ich wünschte, ich h?tte den Ring nie bekommen.
-> Ich wünschte, all das w?re nie passiert.
+> Ich wuenschte, ich haette den Ring nie bekommen.
+> Ich wuenschte, all das waere nie passiert.
