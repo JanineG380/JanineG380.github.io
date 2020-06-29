@@ -9,3 +9,7 @@ und noch mal Frodo, Gandalf, Sam, Elben
 * frodo ist klein
 * frodo hat gro?e Fuesse
 * frodo kommt aus dem Auenland
+
+Frodo said:
+> Ich wuenschte, ich haette den Ring nie bekommen.
+> Ich wuenschte, all das waere nie passiert.
